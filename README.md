@@ -37,7 +37,7 @@ This project demonstrates my expertise in database design, SQL querying, and dat
 ![ER Diagram](./Screenshot%202024-11-10%20at%2022.27.36.png)
 
 ### **Flowchart**
-![Flowchart](./Screenshot%202024-11-10%20at%2022.27.36.png)
+![Flowchart](./assets/Flowchart.png)
 
 ---
 
