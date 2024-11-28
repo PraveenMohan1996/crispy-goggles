@@ -15,9 +15,9 @@ This project demonstrates my expertise in database design, SQL querying, and dat
 ---
 
 ## **🚀 Technologies Used**
-- SQL (specific DBMS: MySQL/PostgreSQL/SQLite)
-- ER Diagram Tool (Lucidchart or equivalent for modeling)
-- Presentation Software (Microsoft PowerPoint/Google Slides)
+- **Database Management System**: MySQL/PostgreSQL/SQLite
+- **ER Diagram Tool**: Lucidchart (or equivalent for database modeling)
+- **Presentation Software**: Microsoft PowerPoint/Google Slides
 
 ---
 
@@ -28,7 +28,14 @@ This project demonstrates my expertise in database design, SQL querying, and dat
    ```
 2. Open the `Final Code SQL Project.pdf` for SQL scripts.
 3. Import the SQL scripts into your preferred database management system.
-4. Use the `SQL Project.pdf` for understanding the workflow and insights.
+4. Refer to `SQL Project.pdf` for understanding the workflow, insights, and documentation.
+
+---
+
+## **📋 Prerequisites**
+- Install a database management system like MySQL, PostgreSQL, or SQLite.
+- A PDF viewer to access the documentation (`SQL Project.pdf` and `Final Code SQL Project.pdf`).
+- Basic knowledge of SQL and database setup to implement the scripts.
 
 ---
 
@@ -37,7 +44,7 @@ This project demonstrates my expertise in database design, SQL querying, and dat
 ![ER Diagram](./Screenshot%202024-11-10%20at%2022.27.36.png)
 
 ### **Flowchart**
-![Flowchart](./Screenshot%202024-11-28%at%18.49.15.png)
+![Flowchart](./Screenshot%202024-11-28%20at%2018.49.15.png)
 
 ---
 
